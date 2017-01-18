@@ -18,6 +18,8 @@ import jhoveValidations.ValidatePdf;
 
 public class JhoveGuiStarterDialog {
 	
+	//comment
+	
 	public static String jhoveExaminationFolder;
 
 	public static void main(String args[]) throws Exception {
