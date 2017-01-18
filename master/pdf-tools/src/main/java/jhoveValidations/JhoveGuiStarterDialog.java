@@ -17,6 +17,8 @@ import jhoveValidations.ValidatePdf;
 //There must be sth. hard coded somewhere which does not make this program portable
 
 public class JhoveGuiStarterDialog {
+	
+	//comment
 
 	public static String jhoveExaminationFolder;
 
